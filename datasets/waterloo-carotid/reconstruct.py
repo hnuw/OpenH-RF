@@ -68,7 +68,7 @@ CONFIG = HERE / "pipeline.yaml"
 OUT = HERE / "assets" / "reconstruct_output.png"
 HF_CONFIG = "hf://nvidia/OpenH-RF/waterloo-carotid/pipeline.yaml"
 FRAME = 250
-POWER_THRESHOLD = 55.0  # Power Doppler mask threshold (dB); 
+POWER_THRESHOLD = 55.0  # Power Doppler mask threshold (dB)
 
 
 def draw_velocity_field(

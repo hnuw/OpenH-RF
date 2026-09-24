@@ -56,7 +56,7 @@ DYNAMIC_RANGE = [-50, 0]  # dB; written to pipeline.yaml, tweak it there
 # zea process reproduces the same field of view.
 PARAMETERS = {
     "xlims": [-0.019, 0.019],
-    "zlims": [0.010, 0.060], 
+    "zlims": [0.010, 0.060],
     "grid_size_x": 381,
     "grid_size_z": 501,
     "dynamic_range": DYNAMIC_RANGE,

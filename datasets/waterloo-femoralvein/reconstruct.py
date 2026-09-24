@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: Apache-2.0
-"""Example reconstruction script for the waterloo-largeartery dataset of OpenH-RF.
+"""Example reconstruction script for the waterloo-femoralvein dataset of OpenH-RF.
 
 Dataset link: https://huggingface.co/datasets/nvidia/OpenH-RF/tree/main/waterloo-largeartery
 
